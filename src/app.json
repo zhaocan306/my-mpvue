@@ -4,11 +4,7 @@
 		"pages/notice/notice",
 		"pages/message/message",
     "pages/index",
-    "pages/counter",
-    {
-      "path": "packageA/logs",
-      "subPackage": true
-    }
+    "pages/counter"
   ],
   "window": {
     "backgroundTextStyle": "light",
